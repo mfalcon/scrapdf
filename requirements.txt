@@ -32,7 +32,7 @@ pytesseract==0.1.7
 python-pptx==0.6.5
 queuelib==1.4.2
 requests==2.18.4
-Scrapy==1.4.0
+Scrapy==2.6.2
 service-identity==17.0.0
 six==1.10.0
 SpeechRecognition==3.6.3
